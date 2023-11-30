@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+.love{
+    width: 50%;
+    margin-left: 25%;
+    color: pink;
+    margin-top: 50px;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+.love2{
+    width: 100%;
+    border: solid whitesmoke;
+}
+#love3{
+    font-size: 25px;
+}
